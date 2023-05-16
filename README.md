@@ -7,7 +7,7 @@
 
 - 🔭 **Interested in Data Science, Business Intelligence And AI**
 - 🌱 I’m currently learning **dbt, Machine Learning, Metabase, Google Analytics**
-- 📄 Know about my experiences : (CurriculumVitae)[https://drive.google.com/file/d/1rdHoJVjP960MRmgfeex9sTZrHWSNn9Xe/view?usp=sharing](https://drive.google.com/file/d/1rdHoJVjP960MRmgfeex9sTZrHWSNn9Xe/view?usp=sharing)
+- 📄 Know about my experiences : [link cv](https://drive.google.com/file/d/1rdHoJVjP960MRmgfeex9sTZrHWSNn9Xe/view?usp=sharing)
 - 📫 How to reach me **makrufkausar@gmail.com**
 - 📚 Reader and Tech Enthusiast
 - 🧬 A person who uses numbers, colors, charts and dashboards to produce beautiful products.
