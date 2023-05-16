@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makrufkasr&label=Profile%20views&color=0e75b6&style=flat" alt="makrufkasr" /> </p>
 
-![Header Twitter Travel Minimal Jelajah](https://github.com/Makrufkasr/Makrufkasr/assets/109516688/b5b07b4f-87da-407c-a8ce-c43e8eb80975)
+![Header Twitter Travel Minimal Jelajah (1)](https://github.com/Makrufkasr/Makrufkasr/assets/109516688/5e8ebb3d-702f-4d94-b2a5-8c11c9aa29b6)
 
 <h1 align="left">Hi 👋, I'm Makruf</h1>
 <h4 align="left">I'm Makruf from Indonesia, a Data analyst and also Machine Learning Learner. I really like working with Data Visualization, SQL and python to simply do an automation or create a machine learning software. You can check out my linked-in at https://www.linkedin.com/in/makrufkausar/</h3>
