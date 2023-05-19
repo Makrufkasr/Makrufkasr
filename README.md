@@ -3,9 +3,9 @@
 ![Header Twitter Travel Minimal Jelajah (1)](https://github.com/Makrufkasr/Makrufkasr/assets/109516688/5e8ebb3d-702f-4d94-b2a5-8c11c9aa29b6)
 
 <h1 align="left">Hi 👋, There!</h1>
-<h4 align="left">I'm Makruf from Indonesia, Aspiring Data analyst and also Machine Learning Learner. I really like working with Data Visualization, SQL and python to simply do an automation or create a machine learning software. You can check out my linked-in at https://www.linkedin.com/in/makrufkausar/</h3>
+<h4 align="left">I'm Makruf from Indonesia, Aspiring Data analyst and also Machine Learning Learner. I really like working with Excel, Data Visualization, SQL and python to simply do an automation or create a machine learning software. You can check out my linked-in at https://www.linkedin.com/in/makrufkausar/</h3>
 
-- 🔭 **Interested in Data Science, Business Intelligence And AI**
+- 🔭 **Interested in Data Anlyst, Data Science, Business Intelligence And AI**
 - 🌱 I’m currently learning **dbt, Machine Learning, Metabase, Google Analytics**
 - 📄 Know about my experiences : [link cv](https://drive.google.com/file/d/1rdHoJVjP960MRmgfeex9sTZrHWSNn9Xe/view?usp=sharing)
 - 📫 How to reach me **makrufkausar@gmail.com**
